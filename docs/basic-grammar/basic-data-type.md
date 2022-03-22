@@ -171,7 +171,7 @@ Tips：单精度是这样的格式，1 位符号，8 位指数，23 位小数，
 
 ![](https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/core-grammar/nine-04.png)
 
-双精度是这样的格式，1 位符号，11 位指数，52 为小数，有效位数为 16 位。
+双精度是这样的格式，1 位符号，11 位指数，52 位小数，有效位数为 16 位。
 
 ![](https://cdn.jsdelivr.net/gh/itwanger/toBeBetterJavaer/images/core-grammar/nine-05.png)
 
