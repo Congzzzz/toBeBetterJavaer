@@ -243,6 +243,6 @@ public void remove() {
 
 简单地总结一下，fail-fast 是一种保护机制，可以通过 for-each 循环删除集合的元素的方式验证这种保护机制。
 
-那也就是说，for-each 本质上是一种语法糖，遍历集合时很方面，但并不适合拿来操作集合中的元素（增删）。
+那也就是说，for-each 本质上是一种语法糖，遍历集合时很方便，但并不适合拿来操作集合中的元素（增删）。
 
 <img src="http://cdn.tobebetterjavaer.com/tobebetterjavaer/images/xingbiaogongzhonghao.png" width="700px">
