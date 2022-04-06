@@ -414,7 +414,7 @@ public class ArrayListTest {
         long timeStart = System.currentTimeMillis();
         while (i < num) {
             int temp = list.size();
-            list.add(temp / 2 + "沉默王二");
+            list.add(temp / 2, i + "沉默王二");
             i++;
         }
         long timeEnd = System.currentTimeMillis();
